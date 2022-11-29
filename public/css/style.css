@@ -45,3 +45,19 @@
     justify-content: center;
 
 }
+.rec12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.num12{
+    display: flex;
+    width: 8%;
+    height: 120px;
+    background-color: burlywood;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
