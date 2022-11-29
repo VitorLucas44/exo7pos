@@ -29,3 +29,19 @@
     justify-content: center;
 
 }
+.rec3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.num3{
+    display: flex;
+    width: 33%;
+    height: 120px;
+    background-color: burlywood;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
