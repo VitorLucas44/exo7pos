@@ -1,0 +1,31 @@
+.num1{
+    width: 100%;
+    height: 120px;
+    background-color: burlywood;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rec1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rec2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.num2{
+    display: flex;
+    width: 50%;
+    height: 120px;
+    background-color: burlywood;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
